@@ -46,3 +46,9 @@ Resource Optimization: Further analysis to optimize resource allocation and redu
 Conclusion:
 This project provides valuable insights into the healthcare sector, identifying key trends and patterns that can help healthcare providers make informed decisions. It serves as a robust model for data-driven healthcare planning and resource management.
 
+Getting Started:
+Prerequisites:
+Python: For data processing and analysis.
+Excel: For initial data cleaning and preliminary analysis.
+Power BI Desktop: For creating and viewing dashboards.
+Tableau Desktop (Optional): For advanced data visualization and interactive dashboards.
